@@ -1,6 +1,0 @@
-REPOSITORY           TAG       IMAGE ID       CREATED         SIZE
-my/ubuntu-tmp-file   latest    fa2228d64029   4 minutes ago   63.1MB
-ubuntu               18.04     5d2df19066ac   2 weeks ago     63.1MB
-nginx                latest    670dcc86b69d   6 months ago    142MB
-b4tman/squid         latest    bd1b15cee6d2   9 months ago    28.2MB
-hello-world          latest    feb5d9fea6a5   16 months ago   13.3kB
